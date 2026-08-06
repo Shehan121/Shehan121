@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="PASTE_YOUR_USER-ATTACHMENTS_URL_HERE" width="100%" alt="hello world, my name is Shehan #softwareengineering"/>
+<img width="811" height="232" alt="{hello world (1)" src="https://github.com/user-attachments/assets/70ea793f-b4bd-4bca-a744-97cf57883dfc" />
 
 </div>
 
