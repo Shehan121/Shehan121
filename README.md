@@ -1,5 +1,12 @@
-<img width="2160" height="1215" alt="{hello world" src="https://github.com/user-attachments/assets/c13649c1-107f-446c-bc65-c1836436d7d6" />
+<div align="center">
 
+<img src="https://wsrv.nl/?url=i.pinimg.com/736x/f2/3f/14/f23f141929fc102a019e4280e584387d.jpg&w=1200&h=300&fit=cover&a=center" width="100%"/>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/c13649c1-107f-446c-bc65-c1836436d7d6" width="100%" alt="Hello World, I'm Shehan Nimsara"/>
+
+</div>
 
 ---
 
