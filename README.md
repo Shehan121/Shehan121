@@ -2,10 +2,6 @@
 
 <img width="811" height="232" alt="{hello world (1)" src="https://github.com/user-attachments/assets/70ea793f-b4bd-4bca-a744-97cf57883dfc" />
 
-</div>
-
----
-
 
 ---
 
@@ -20,7 +16,7 @@
 
 <br clear="right"/>
 
-## Education
+### Education
 
 **B.Sc. Software Design (International)** — TH Aschaffenburg · 10/2024 – present
 Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
