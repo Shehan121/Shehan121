@@ -3,6 +3,7 @@
 <img width="811" height="232" alt="{hello world (1)" src="https://github.com/user-attachments/assets/70ea793f-b4bd-4bca-a744-97cf57883dfc" />
 
 
+
 ---
 
 ## About
@@ -21,12 +22,10 @@
 **B.Sc. Software Design (International)** — TH Aschaffenburg · 10/2024 – present
 Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 
-| Module | Grade |
-|---|---|
-| IT Security | **1.0** |
-| Parallel & Distributed Systems | **1.0** |
-| Data Science: Foundations of AI | **1.7** |
-| Foundations of Programming Technologies | **1.7** |
+- IT Security — **1.0**
+- Parallel & Distributed Systems — **1.0**
+- Data Science: Foundations of AI — **1.7**
+- Foundations of Programming Technologies — **1.7**
 
 <br>
 
