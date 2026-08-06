@@ -1,3 +1,4 @@
+
 x<p align="center">
 <img width="811" height="232" alt="{hello world (1)" src="https://github.com/user-attachments/assets/70ea793f-b4bd-4bca-a744-97cf57883dfc" />
 </p>
@@ -8,7 +9,7 @@ x<p align="center">
 
 ## About
 
-<img align="right" width="260" src="KEEP_YOUR_EXISTING_ABOUT_IMAGE_URL_HERE" />
+<img align="right" width="260" src="Reflex_-removebg-preview" src="https://github.com/user-attachments/assets/244c721f-cd0c-4366-8c26-4951a602457c" /> 
 
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
 - Moving from a backend/security foundation toward data science, AI, and AI security
