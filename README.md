@@ -18,7 +18,7 @@
 
 <br clear="right"/>
 
-### `Education`
+## `Education`
 
 **B.Sc. Software Design (International)** — TH Aschaffenburg · 10/2024 – present
 
