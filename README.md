@@ -46,20 +46,17 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 ### `Projects`
 
 - **NovaSchilda — Drone Network Route Planner**
-
     Weighted graph algorithms implemented from scratch (BFS, Dijkstra's, Edmonds–Karp, Prim's MST) on real JSON network data.
 
 [repo](https://github.com/Shehan121/NovaSchilda)
 
 - **Agile Meets Security — Vulnerability Dashboard**
-
-GitLab CI/CD pipelines scanning intentionally-vulnerable test apps on every commit, feeding a live dashboard.
+    GitLab CI/CD pipelines scanning intentionally-vulnerable test apps on every commit, feeding a live dashboard.
 
 [repo](https://github.com/Shehan121/Agile-Security)
 
 - **SD-404 — Educational Quiz Game**
-
-Android quiz game built solo in Godot Engine/GDScript, with full SWE documentation and 100+ commits.
+    Android quiz game built solo in Godot Engine/GDScript, with full SWE documentation and 100+ commits.
 
 [repo](https://github.com/Shehan121/dino-akademie-sd404)
 
