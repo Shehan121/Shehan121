@@ -8,7 +8,7 @@
 
 
 ---
-## About
+## `About`
 <!--<img align="right" img width="170" height="170" alt="Untitled design" src="https://github.com/user-attachments/assets/d99e4118-6de6-4145-b596-48adaa1c28f8" /> -->
 
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
