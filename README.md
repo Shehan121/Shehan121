@@ -10,6 +10,8 @@
 ### `About`
 
 <!--<img align="right" width="170" alt="Untitled design" src="https://github.com/user-attachments/assets/d99e4118-6de6-4145-b596-48adaa1c28f8" /> -->
+<img width="720" height="720" alt="FromKlickpin com-42TrendyMindfulnessIdeas-pin-id-1015843259696987947-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bf7ec6d5-fe3e-4fe5-9be1-76da94cc70fb" />
+
 
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
 - Moving from a backend/security foundation toward data science, AI, and AI security
