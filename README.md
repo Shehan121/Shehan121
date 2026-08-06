@@ -9,7 +9,7 @@
 
 ### `About`
 
-<img align="right" width="170" src="https://github.com/user-attachments/assets/a7595ac2-87a6-4f56-9eea-f6526866de31" />
+<img align="right" width="170" src="https://github.com/user-attachments/assets/1c874585-d999-4191-ba7c-96c8f43153bb" />
 
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
 - Moving from a backend/security foundation toward data science, AI, and AI security
