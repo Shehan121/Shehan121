@@ -27,6 +27,7 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 - Data Science: Foundations of AI — **1.7**
 - Foundations of Programming Technologies — **1.7**
 
+x<p align="center">
 <br>
 
 ## Connect
@@ -36,6 +37,8 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 <a href="mailto:shehannimsara470@gmail.com"><img src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br>
+</p>
+
 
 ## Tech Stack
 
