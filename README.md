@@ -76,7 +76,6 @@ Android quiz game built solo in Godot Engine/GDScript, with full SWE documentati
 <p align="center">
 <img src="https://raw.githubusercontent.com/Shehan121/Shehan121/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 <br>
 
 <sub>Open to Pflichtpraktikum opportunities in Germany</sub>
