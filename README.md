@@ -60,9 +60,10 @@ Android quiz game built solo in Godot Engine/GDScript, with full SWE documentati
 <br>
 
 ## GitHub Stats
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shehan121&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan121&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=c9c9c9&dates=888888" width="48%" />
+</p>
 
 <br>
 
