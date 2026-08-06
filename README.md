@@ -2,7 +2,7 @@
 <img width="811" height="232" alt="{hello world (1)" src="https://github.com/user-attachments/assets/70ea793f-b4bd-4bca-a744-97cf57883dfc" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C9C9C9&center=true&vCenter=true&width=600&lines=backend+%2B+security+%E2%86%92+data+science+%26+AI;implementing+algorithms+from+scratch;seeking+Pflichtpraktikum+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C9C9C9&center=true&vCenter=true&width=650&lines=%7B+backend+%2B+security+%E2%86%92+data+science+%26+AI+%7D;%7B+implementing+algorithms+from+scratch+%7D;%7B+seeking+Pflichtpraktikum+2026+%7D" alt="Typing SVG" />
 </p>
 
 ---
