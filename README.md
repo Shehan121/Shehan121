@@ -1,61 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Shehan%20Nimsara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Design%20Student%20%7C%20Backend%20%26%20Security-Minded%20Engineering&descAlignY=55&descSize=16" width="100%"/>
+# Shehan Nimsara
 
-<a href="https://sheh4n.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehan;Software+Design+Student+%40+TH+Aschaffenburg;Backend+%2B+Security-Minded+Engineering;Seeking+a+Pflichtpraktikum+2026" alt="Typing SVG" />
-</a>
+Software Design Student · TH Aschaffenburg, Germany
 
-</div>
+Data Science · AI · AI Security
 
----
+[Portfolio](https://sheh4n.com) &nbsp;·&nbsp; [GitHub](https://github.com/Shehan121) &nbsp;·&nbsp; [Email](mailto:shehannimsara470@gmail.com)
 
-### 🚀 About Me
-
-- 🎓 5th-semester **B.Sc. Software Design** student at TH Aschaffenburg, Germany
-- 🔐 Strongest in **IT Security (1.0)** and **Parallel & Distributed Systems (1.0)**
-- 🧠 I like building things from first principles — implemented BFS, Dijkstra's, Edmonds–Karp and Prim's MST from scratch for a drone-network routing project
-- 🛡️ Currently deep in **DevSecOps**: GitLab CI/CD pipelines that scan for vulnerabilities on every commit
-- 🌱 Learning **Spring Boot** to round out my backend stack
-- 🎯 Actively looking for a **mandatory internship (Pflichtpraktikum)** in software engineering
-
-<br>
-
-### 🤝 Connect
-
-<div align="center">
-<a href="https://github.com/Shehan121"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-<a href="https://sheh4n.com"><img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
-<a href="mailto:shehannimsara470@gmail.com"><img src="https://img.shields.io/badge/-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
 
-### 🧰 Tech Stack
+## About
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,docker,gitlab,git,idea,figma&theme=dark" />
-</div>
+5th-semester B.Sc. Software Design student, moving from a backend/security foundation into data science and AI. Particularly interested in **AI security** — where my application-security background (vulnerability scanning, DevSecOps pipelines) meets ML systems: adversarial robustness, model integrity, and securing the AI development lifecycle rather than just the code around it.
 
 <br>
 
-### 📊 GitHub Stats
+## Education
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shehan121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan121&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+**B.Sc. Software Design (International)** — TH Aschaffenburg &nbsp;·&nbsp; 10/2024 – present
+Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 
-<br>
-
-### 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan121&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
+| Module | Grade |
+|---|---|
+| IT Security | **1.0** |
+| Parallel & Distributed Systems | **1.0** |
+| Data Science: Foundations of AI | **1.7** |
+| Foundations of Programming Technologies | **1.7** |
 
 <br>
 
+## Focus areas
+
+- **Data Science & AI** — pandas, scikit-learn, matplotlib, Jupyter; graph algorithms and optimization as a foundation for ML
+- **AI Security** — extending vulnerability-scanning and DevSecOps experience toward securing ML pipelines and models
+- **Backend Engineering** — Java, Python, Docker, CI/CD
+
+<br>
+
+## Projects
+
+**NovaSchilda — Drone Network Route Planner**
+Weighted graph algorithms implemented from scratch (BFS, Dijkstra's, Edmonds–Karp, Prim's MST) on real JSON network data — the same optimization foundations that underpin ML routing and resource-allocation problems.
+[repo](https://github.com/Shehan121/NovaSchilda)
+
+**Agile Meets Security — Vulnerability Dashboard**
+GitLab CI/CD pipelines scanning intentionally-vulnerable test apps on every commit, feeding a live dashboard. First step toward extending this to ML/AI pipeline security.
+[repo](https://github.com/Shehan121/Agile-Security)
+
+**SD-404 — Educational Quiz Game**
+Android quiz game built solo in Godot Engine/GDScript, with full SWE documentation and 100+ commits.
+[repo](https://github.com/Shehan121/dino-akademie-sd404)
+
+<br>
+
+## Stack
+
+<p>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-Java-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-Git-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-pandas-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-scikit--learn-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-Jupyter-000000?style=flat-square" />
+</p>
+
+<br>
+
+## Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shehan121&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&icon_color=000000" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan121&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" width="49%" />
+
+<br>
+
 <div align="center">
-<i>Open to Pflichtpraktikum opportunities across Germany — feel free to reach out.</i>
+<sub>Open to Pflichtpraktikum opportunities in Germany</sub>
 </div>
