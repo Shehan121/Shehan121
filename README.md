@@ -9,7 +9,8 @@ x<p align="center">
 
 ## About
 
-<img align="right" width="260" src="Reflex_-removebg-preview" src="https://github.com/user-attachments/assets/244c721f-cd0c-4366-8c26-4951a602457c" /> 
+<img width="500" height="500" alt="Reflex_-removebg-preview" src="https://github.com/user-attachments/assets/9752e108-422b-40a3-bc64-e2f18f4c290d" />
+
 
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
 - Moving from a backend/security foundation toward data science, AI, and AI security
