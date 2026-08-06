@@ -8,8 +8,6 @@
 
 ### About
 
-<img align="right" width="260" src="https://i.pinimg.com/1200x/92/a2/79/92a279c261bbf129a6e3eac440a8e5b5.jpg" />
-
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
 - Moving from a backend/security foundation toward data science, AI, and AI security
 - Interested in securing ML systems — adversarial robustness, model integrity, and the AI development lifecycle
