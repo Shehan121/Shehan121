@@ -37,8 +37,9 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 
 
 ## Tech Stack
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,docker,gitlab,git,idea,figma&theme=dark" />
+</p>
 
 <br>
 
