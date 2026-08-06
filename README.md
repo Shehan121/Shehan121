@@ -27,7 +27,7 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 - Data Science: Foundations of AI — **1.7**
 - Foundations of Programming Technologies — **1.7**
 
-x<p align="center">
+<p align="center">
 <br>
 
 ## Connect
