@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=150&section=header&text=Shehan%20Nimsara&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Software%20Design%20Student%20%7C%20Data%20Science%20%26%20AI%20Security&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%"/>
 
 </div>
 
