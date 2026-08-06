@@ -47,7 +47,7 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 
 - **NovaSchilda — Drone Network Route Planner**
 
-Weighted graph algorithms implemented from scratch (BFS, Dijkstra's, Edmonds–Karp, Prim's MST) on real JSON network data.
+    Weighted graph algorithms implemented from scratch (BFS, Dijkstra's, Edmonds–Karp, Prim's MST) on real JSON network data.
 
 [repo](https://github.com/Shehan121/NovaSchilda)
 
