@@ -27,16 +27,12 @@ Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
 - Data Science: Foundations of AI — **1.7**
 - Foundations of Programming Technologies — **1.7**
 
-<p align="center">
-<br>
-
 ## Connect
 
+<p align="center">
 <a href="https://github.com/Shehan121"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://sheh4n.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:shehannimsara470@gmail.com"><img src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br>
 </p>
 
 
