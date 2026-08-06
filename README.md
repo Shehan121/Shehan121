@@ -6,11 +6,6 @@
 
 ---
 
-<div align="center">
-
-<img src="KEEP_YOUR_EXISTING_HEADER_IMAGE_URL_HERE" width="100%" alt="hello world, my name is Shehan"/>
-
-</div>
 
 ---
 
