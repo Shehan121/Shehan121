@@ -1,13 +1,14 @@
 <div align="center">
 
-<img width="2160" height="1215" alt="{hello world (1)" src="https://github.com/user-attachments/assets/687269dd-2bdc-4447-bdd0-42fb3966e52d" />
+<img src="PASTE_YOUR_USER-ATTACHMENTS_URL_HERE" width="100%" alt="hello world, my name is Shehan #softwareengineering"/>
 
-
-<br>
+</div>
 
 ---
 
 ### About
+
+<img align="right" width="260" src="https://i.pinimg.com/1200x/92/a2/79/92a279c261bbf129a6e3eac440a8e5b5.jpg" />
 
 - 5th-semester B.Sc. Software Design student at TH Aschaffenburg, Germany
 - Moving from a backend/security foundation toward data science, AI, and AI security
