@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shehan121/Shehan121/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p align="center">
 <img width="811" height="232" alt="{hello world (1)" src="https://github.com/user-attachments/assets/70ea793f-b4bd-4bca-a744-97cf57883dfc" />
 </p>
