@@ -71,6 +71,7 @@ Android quiz game built solo in Godot Engine/GDScript, with full SWE documentati
 ## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan121&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=false" width="100%" />
+
 ## Contribution Snake
 
 <p align="center">
