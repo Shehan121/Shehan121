@@ -42,7 +42,7 @@ Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 ### `Tech Stack`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,docker,gitlab,git,idea,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,pytorch,docker,gitlab,git,idea,figma&theme=dark" />
 </p>
 
 ### `Projects`
@@ -62,7 +62,6 @@ Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 ### `GitHub Stats`
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan121&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan121&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=c9c9c9&dates=888888" width="48%" />
 </p>
 
