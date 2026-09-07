@@ -24,13 +24,12 @@
 ### `Education`
 
 **B.Sc. Software Design (International)** — TH Aschaffenburg · 10/2024 – present
-
-Average grade: **2.56** (German scale, 1.0 = best) across 100 ECTS
-
+Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 - IT Security — **1.0**
 - Parallel & Distributed Systems — **1.0**
+- Human Computer Interaction — **1.3**
 - Data Science: Foundations of AI — **1.7**
-- Foundations of Programming Technologies — **1.7**
+- Mathematics II — **1.7**
 
 ### `Connect`
 
