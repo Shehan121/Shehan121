@@ -76,5 +76,6 @@ Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 </p>
 
 <br>
-
+<p align="center">
 <sub>Open to Pflichtpraktikum opportunities in Germany</sub>
+</p>
