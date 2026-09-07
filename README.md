@@ -46,18 +46,18 @@ Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 </p>
 
 ### `Projects`
-
-- **NovaSchilda — Drone Network Route Planner**
-    Weighted graph algorithms implemented from scratch (BFS, Dijkstra's, Edmonds–Karp, Prim's MST) on real JSON network data.
-    [repo](https://github.com/Shehan121/NovaSchilda)
-
-- **Agile Meets Security — Vulnerability Dashboard**
-    GitLab CI/CD pipelines scanning intentionally-vulnerable test apps on every commit, feeding a live dashboard.
-    [repo](https://github.com/Shehan121/Agile-Security)
-
-- **SD-404 — Educational Quiz Game**
-    Android quiz game built solo in Godot Engine/GDScript, with full SWE documentation and 100+ commits.
-    [repo](https://github.com/Shehan121/dino-akademie-sd404)
+- **Algorithms from Scratch — Measured, Not Quoted**
+    42 algorithms and 8 data structures built from first principles in Python, with every complexity claim checked against instrumented comparison counts and curve fitting rather than asserted from a textbook. 273 tests.
+    [repo](https://github.com/Shehan121/algorithms-from-scratch)
+- **ML from Scratch — Classical ML, a Neural Net, and Adversarial Attacks**
+    13 classical ML algorithms and a neural network built with numpy only, verified against scikit-learn. Backpropagation checked against finite differences, then the trained network attacked with FGSM/PGD to show test accuracy isn't a safety property.
+    [repo](https://github.com/Shehan121/ml-from-scratch)
+- **German House Prices — Hedonic Pricing & Index Forecasting**
+    End-to-end regression study on real Eurostat and Munich Mietspiegel data. Hedonic model beats the mean baseline by 32.1% RMSE — and reports rather than hides that Ridge fails to beat a naive persistence benchmark on the forecasting task.
+    [repo](https://github.com/Shehan121/german-house-prices)
+- **Agile Meets Security — DevSecOps Pipeline & Vulnerability Dashboard**
+    GitLab CI/CD pipelines scanning intentionally-vulnerable test apps on every commit (SAST, secret detection, dependency/container scanning, DAST), feeding a live Express + SQLite dashboard.
+    [repo](https://github.com/Shehan121/Agile-Security) · [pipeline docs](https://github.com/Shehan121/ITSecurtiy)
 
 ### `GitHub Stats`
 
