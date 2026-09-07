@@ -65,9 +65,7 @@ Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan121&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=c9c9c9&dates=888888" width="48%" />
 </p>
 
-### `Activity Graph`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan121&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=false" width="100%" />
 
 ### `Contribution Snake`
 
