@@ -42,7 +42,7 @@ Average grade: **2.4** (German scale, 1.0 = best) across 105 ECTS
 ### `Tech Stack`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,pytorch,docker,gitlab,GDscript,kotlin,javafx,react,springboot,arduino,raspberrypie,linux,sql,sqlite,expressjs,git,idea,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,c,html,css,pytorch,docker,gitlab,godot,kotlin,react,spring,arduino,raspberrypi,linux,sqlite,express,git,idea,figma&theme=dark" />
 </p>
 
 ### `Projects`
