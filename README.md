@@ -67,12 +67,13 @@
 
 
 
-### `Contribution Snake`
+## My Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Shehan121/Shehan121/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph.svg">
+</picture>
 <br>
 <p align="center">
 <sub>Open to Pflichtpraktikum opportunities in Germany</sub>
