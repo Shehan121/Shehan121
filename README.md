@@ -67,7 +67,7 @@
 
 
 
-## My Contribution Graph
+### `My Contribution Graph`
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph-dark.svg">
