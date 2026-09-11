@@ -25,12 +25,6 @@
 
 **B.Sc. Software Design (International)** — TH Aschaffenburg · 10/2024 – present
 
-- IT Security — **1.0**
-- Parallel & Distributed Systems — **1.0**
-- Human Computer Interaction — **1.3**
-- Data Science: Foundations of AI — **1.7**
-- Mathematics II — **1.7**
-
 ### `Connect`
 
 <p align="center">
