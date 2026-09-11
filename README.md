@@ -62,7 +62,7 @@
 ### `GitHub Stats`
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan121&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=c9c9c9&dates=888888" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Shehan121&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=c9c9c9&dates=888888" width="48%" />
 </p>
 
 
