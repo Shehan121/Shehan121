@@ -35,10 +35,8 @@
 
 ### `Tech Stack`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,py,c,html,css,pytorch,docker,gitlab,godot,kotlin,react,spring,arduino,raspberrypi,linux,sqlite,express,git,idea,figma&theme=dark" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=java,py,c,html,css,pytorch,docker,gitlab,godot,kotlin,react,spring,arduino,raspberrypi,linux,sqlite,express,git,idea,ts,tensorflow,sklearn,figma&theme=dark" />
+    
 ### `Projects`
 - **Algorithms from Scratch — Measured, Not Quoted**
     42 algorithms and 8 data structures built from first principles in Python, with every complexity claim checked against instrumented comparison counts and curve fitting rather than asserted from a textbook. 273 tests.
