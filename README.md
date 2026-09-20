@@ -36,7 +36,7 @@
 
 ### `Tech Stack`
 
-<img src="https://skillicons.dev/icons?i=java,py,c,html,css,pytorch,docker,gitlab,godot,kotlin,react,spring,arduino,raspberrypi,linux,sqlite,express,git,idea,ts,tensorflow,sklearn,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,c,html,css,pytorch,docker,gitlab,godot,kotlin,react,spring,arduino,raspberrypi,latex,linux,sqlite,express,git,idea,ts,tensorflow,sklearn,figma,canva&theme=dark" />
     
 ### `Projects`
 - **Algorithms from Scratch — Measured, Not Quoted**
