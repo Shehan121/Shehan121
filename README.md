@@ -12,17 +12,15 @@
 
 <img align="right" width="170" src="https://github.com/user-attachments/assets/1c874585-d999-4191-ba7c-96c8f43153bb" />
 
-AI Engineering Intern — building AI agents that test software automatically, from November 2026.
+Building AI agents that test software, and making sure we can trust what they report.
 
-<br clear="right"/>
+<br/>
 
-### `Connect`
-
-<p align="center">
 <a href="https://github.com/Shehan121"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://sheh4n.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:shehannimsara470@gmail.com"><img src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
+<br clear="right"/>
 
 ### `Tech Stack`
 
@@ -40,4 +38,4 @@ AI Engineering Intern — building AI agents that test software automatically, f
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph.svg">
-</pictur
+</picture>
