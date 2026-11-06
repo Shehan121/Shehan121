@@ -8,8 +8,6 @@
 
 ### `About`
 
-<img align="right" width="170" src="https://github.com/user-attachments/assets/1c874585-d999-4191-ba7c-96c8f43153bb" />
-
 Building AI agents that test software, and making sure we can trust what they report.
 
 <br/>
