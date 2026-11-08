@@ -10,13 +10,7 @@
 
 Building AI agents that test software, and making sure we can trust what they report.
 
-<br/>
 
-<a href="https://github.com/Shehan121"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://sheh4n.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:shehannimsara470@gmail.com"><img src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br clear="right"/>
 
 ### `Tech Stack`
 
