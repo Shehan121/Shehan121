@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C9C9C9&center=true&vCenter=true&width=650&lines=%7B+AI+engineering+%7D;%7B+building+AI+agents+for+%7D;%7B+backend+%2B+security+%E2%86%92+AI+%7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C9C9C9&center=true&vCenter=true&width=650&lines=%7B+AI+engineering+%7D;%7B+building+AI+agents+%7D;%7B+backend+%2B+security+%E2%86%92+AI+%7D" alt="Typing SVG" />
 </p>
 
 ---
