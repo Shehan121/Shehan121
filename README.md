@@ -8,8 +8,7 @@
 
 ### `About`
 
-Building AI agents that test software, and making sure we can trust what they report.
-
+Compiling, eventually
 
 
 ### `Tech Stack`
