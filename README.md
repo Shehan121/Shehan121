@@ -21,7 +21,6 @@ Compiling, eventually
 <img src="./profile/streak.svg" width="48%" />
 </p>
 
-### `My Contribution Graph`
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shehan121/Shehan121/output/pacman-contribution-graph-dark.svg">
